@@ -1,4 +1,4 @@
-# LeetCode-Solution
+# LeetCode4Fun
 ```
 Just my solution for leetcode problem
 
