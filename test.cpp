@@ -10,7 +10,7 @@ bool isPalindrome(string s){
 }
 
 int main(){
-    string s="babad";
+    string s="babad ";
     int n=s.size();
     string ans="";
     for(int i=0;i<n;i++){
